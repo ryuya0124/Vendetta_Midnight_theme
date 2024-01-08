@@ -1,0 +1,50 @@
+{
+    "name": "Enmity black",
+    "description": "Reproduction of genuine Discord midnight theme",
+    "authors": [
+        {
+            "name": "Ryuya",
+            "id": "2859047382914675"
+        }
+    ],
+    "spec": "1.4.0",
+    "semanticColors": {
+        "TEXT_NORMAL": ["#dcddde", "#FFFFFF"],
+        "TEXT_MUTED": ["#4a4a52", "#FFFFFF"],
+        "INTERACTIVE_NORMAL": ["#b9bbbe", "#FFFFFF"],
+        "INTERACTIVE_HOVER": ["#dcddde", "#FFFFFF"],
+        "INTERACTIVE_ACTIVE": ["#c9ced0", "#FFFFFF"],
+        "INTERACTIVE_MUTED": ["#4f545c", "#FFFFFF"],
+        "BACKGROUND_PRIMARY": ["#000000", "#FFFFFF"],
+        "BACKGROUND_SECONDARY": ["#0f1015", "#FFFFFF"],
+        "BACKGROUND_SECONDARY_ALT": ["#0f1015", "#FFFFFF"],
+        "BACKGROUND_TERTIARY": ["#22222c", "#FFFFFF"],
+        "BACKGROUND_ACCENT": ["#2c2c38", "#FFFFFF"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#0f1015", "#FFFFFF"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#000000", "#FFFFFF"],
+        "BACKGROUND_MOBILE_HOVER": ["#0f1015", "FFFFFF"],
+        "BACKGROUND_MENTIONED": ["#262440", "#FFFFFF"],
+        "BACKGROUND_MENTIONED_HOVER": ["#1E1C2D", "#FFFFFF"],
+        "BACKGROUND_MESSAGE_HOVER": ["#151419", "#FFFFFF"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#1D1C21", "#FFFFFF"],
+        "BACKGROUND_MODIFIER_HOVER": ["#0f1015", "#FFFFFF"],
+        "SCROLLBAR_THIN_THUMB": ["transparent", "#FFFFFF"],
+        "SCROLLBAR_THIN_TRACK": ["transparent", "#FFFFFF"],
+        "SCROLLBAR_AUTO_THUMB": ["transparent", "#FFFFFF"],
+        "SCROLLBAR_AUTO_TRACK": ["transparent", "#FFFFFF"],
+        "BG_BASE_SECONDARY": ["#000000","#FFFFFF"],
+        "CARD_PRIMARY_BG": ["#000000", "#FFFFFF"],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER":["#35353d", "#FFFFFF"],
+        "CHANNELTEXTAREA_BACKGROUND": ["transparent", "#FFFFFF"],
+        "CHANNEL_ICON": ["#4c4c56", "#FFFFFF"],
+        "CHANNELS_DEFAULT": ["#4a4a52", "#141212"]
+    },
+    "rawColours": {
+        "PRIMARY_DARK_600": "#17161b",
+        "PRIMARY_DARK_630": "#101014",
+        "PRIMARY_DARK_800": "#101014",
+        "BRAND_NEW": "#6e6af6",
+        "BRAND_NEW_360": "#6e6af6",
+        "WHITE": "#FFFFFF"
+    }
+}
