@@ -7,7 +7,7 @@
             "id": "2859047382914675"
         }
     ],
-    "spec": "2",
+    "spec": 2,
     "semanticColors": {
         "TEXT_NORMAL": ["#dcddde"],
         "TEXT_MUTED": ["#4a4a52"],
