@@ -7,7 +7,7 @@
             "id": "2859047382914675"
         }
     ],
-    "spec": "2",
+    "spec": 2,
     "semanticColors": {
         "ACTION_SHEET_GRADIENT_BG": ["#000000"],
         "ACTIVITY_CARD_BACKGROUND": ["#1e1f22"],
